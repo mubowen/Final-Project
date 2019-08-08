@@ -1,5 +1,5 @@
 # Final-Project
-This is Team 11's final project git repository for EECS 568: Mobile Robotics. The title of our project is **Implementing LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping**. Team members include: Bowen Mu, Chien Erh Lin, Haochen Wu, and Weilin Xu.
+This is Team 11's final project git repository for EECS 568: Mobile Robotics. The title of our project is **Evaluationof  LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping**. Team members include: Bowen Mu, Chien Erh Lin, Haochen Wu, and Weilin Xu.
 
 <a href="https://imgflip.com/gif/2zazp8"><img src="https://i.imgflip.com/2zazp8.gif" title="made at imgflip.com"/></a>
 
